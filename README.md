@@ -1,0 +1,2 @@
+Name- Shravani Anil Yadav, Roll No.- IT2144
+This file is dedicated to the concept of Friend Function in C++ programming.Encapsulation is a crucial concept that promotes data protection and controlled access to a class's internal members. This ensures that sensitive data remains secure and that modifications are made only through authorized channels. However, encapsulation can sometimes pose challenges when external functions need to access a class's private or protected members. To address this issue, C++ introduces the concept of friend functions.
